@@ -33,7 +33,7 @@ Dieses Projekt zielt darauf ab, ein Modell zu entwickeln, das verschiedene Fahrz
 
 In Anbetracht der Tatsache, dass Fahrzeugmarken im Vergleich zum gesamten Fahrzeug klein sind, besonders wenn Bilder undeutlich sind, stellt die Modellvorhersage eine bestimmte Herausforderung dar. 
 <p align="center">
-  <img src="./val_batch0_pred.jpg" />
+  <img src="./val_batch1_pred.jpg" />
 </p>
 
 Die Beobachtung der Vorhersageergebnisse zeigt, dass das Modell zufriedenstellende Ergebnisse liefert, wenn die Fahrzeugmarke einen größeren Teil des Bildes ausmacht, und weniger zufriedenstellend, wenn dies nicht der Fall ist.
