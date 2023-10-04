@@ -72,25 +72,3 @@ In the future, an ideal approach might be to first detect the position of the ve
 
 ---
 
-
-
-
-##Einrichtung
-
-```shell
-git clone https://github.com/Hyuto/yolov8-tfjs.git
-cd yolov8x
-yarn install #Install dependencies
-```
-
-##Skripte
-
-```shell
-yarn start # Start dev server
-yarn build # Build for productions
-```
-
-## Reference
-
-- https://github.com/ultralytics/ultralytics
-- https://github.com/Hyuto/yolov8-onnxruntime-web
