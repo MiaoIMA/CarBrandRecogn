@@ -27,6 +27,10 @@ Dieses Projekt zielt darauf ab, ein Modell zu entwickeln, das verschiedene Fahrz
   <img src="./labels.jpg" />
 </p>
 
+<p align="center">
+  <img src="./train_batch1.jpg" />
+</p>
+
 In Anbetracht der Tatsache, dass Fahrzeugmarken im Vergleich zum gesamten Fahrzeug klein sind, besonders wenn Bilder undeutlich sind, stellt die Modellvorhersage eine bestimmte Herausforderung dar. 
 <p align="center">
   <img src="./val_batch0_pred.jpg" />
