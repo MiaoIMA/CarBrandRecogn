@@ -1,4 +1,4 @@
-# 🚧 Fahrzeugmarkenerkennungsmodell
+# Fahrzeugmarkenerkennungsmodell
 
 <p align="center">
   <img src="./sample.png" />
